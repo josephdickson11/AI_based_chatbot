@@ -1,0 +1,1 @@
+### this project is to aimed at creating a chatbot that can converse in pigeon-english, As such, the contributions on the project should be biased towards training data on different topics only in pigeon-english
